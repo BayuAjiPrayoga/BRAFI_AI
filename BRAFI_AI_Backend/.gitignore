@@ -1,0 +1,33 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Environment Variables / Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Temporary files and logs
+temp/
+public/audio/
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor/IDE directories
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
