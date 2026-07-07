@@ -538,7 +538,7 @@ Program Studi Teknik Informatika, Universitas Teknologi Bandung (UTB)
 
 ---
 
-# Link Video Dokumen tasi
+# Link Video Dokumentasi
 https://drive.google.com/drive/folders/1SxNPBfp_LTKAXSSYkYL-Dz_gQ5PdT0Zw?hl=ID
 
 
