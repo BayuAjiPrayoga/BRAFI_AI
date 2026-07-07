@@ -538,6 +538,10 @@ Program Studi Teknik Informatika, Universitas Teknologi Bandung (UTB)
 
 ---
 
+# Link Video Dokumen tasi
+https://drive.google.com/drive/folders/1SxNPBfp_LTKAXSSYkYL-Dz_gQ5PdT0Zw?hl=ID
+
+
 
 *Dokumentasi ini dibuat sebagai pelengkap tugas UAS Internet of Things (IoT).*
 *Terakhir diperbarui: 28 Juni 2026*
