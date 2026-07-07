@@ -537,10 +537,7 @@ Program Studi Teknik Informatika, Universitas Teknologi Bandung (UTB)
 | 3 | Bayu Aji Prayoga | 23552011194 |
 
 ---
-## Demo
 
-Klik gambar di bawah untuk melihat demo aplikasi.
 
-[![video demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/bHz_WTtf41U?si=TqP6NsfRPLD-HWLM)
 *Dokumentasi ini dibuat sebagai pelengkap tugas UAS Internet of Things (IoT).*
 *Terakhir diperbarui: 28 Juni 2026*
